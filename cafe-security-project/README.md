@@ -4,12 +4,12 @@ This project is a practical demonstration of cybersecurity fundamentals for smal
 
 It includes:
 
-- ✅ An ISO 27001-inspired Information Security Policy  
-- ✅ A small business Risk Register  
-- ✅ A simplified Audit Checklist  
-- ✅ A Nessus vulnerability scan summary  
-- ✅ Splunk logs and screenshots  
-- ✅ A project summary: "How I Secured My Café"
+- An ISO 27001-inspired Information Security Policy  
+-  A small business Risk Register  
+-  A simplified Audit Checklist  
+-  A Nessus vulnerability scan summary  
+-  Splunk logs and screenshots  
+-  A project summary: "How I Secured My Café"
 
 ### Purpose:
 To show hands-on understanding of cyber risk management, compliance, and GRC principles using a real-world setting.
